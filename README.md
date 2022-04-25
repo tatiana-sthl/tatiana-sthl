@@ -1,16 +1,14 @@
-# Hello World, I'm Tatiana ! <i class="fa-solid fa-hand-wave"></i>
+# Hello World, I'm Tatiana ! 
 
-<!--
-**tatiana-sthl/tatiana-sthl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+<tr>
+  <td valign="center">
+    🌱 I am currently learning **Javascript** and also interested in **Web Development**.
+    🎯 My Goal is to be hired in a company that allows me to increase my skills.
+    ✨ I love to learn a lot of new things.
+  </td>
+</tr>
+</table>
 
-Here are some ideas to get you started:
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?tatiana-sthl=#your-tatiana-sthl&theme=dracula&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
