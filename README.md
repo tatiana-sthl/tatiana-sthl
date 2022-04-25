@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tatiana-sthl&label=Profile%20views&color=0e75b6&style=flat" alt="tatiana-sthl" /> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript** and a lot of more things
 
 - 👨‍💻 All of my projects are available at [todo](todo)
 
