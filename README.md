@@ -10,5 +10,5 @@
 </tr>
 </table>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?tatiana-sthl=#your-tatiana-sthl&theme=dracula&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?tatiana-sthl=#tatiana-sthl&theme=dracula&hide_border=true)
 
