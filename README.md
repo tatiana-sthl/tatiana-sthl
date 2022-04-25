@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, I'm Tatiana !</h1>
-<h3 align="center">A newbie front-end Developer who love to learn about coding</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tatiana-sthl&label=Profile%20views&color=0e75b6&style=flat" alt="tatiana-sthl" /> </p>
 
