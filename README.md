@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript** and a lot of more things
 
-- 👨‍💻 All of my projects are available at [todo](todo)
+- 👨‍💻 All of my projects are available at https://tatiana-sthl.github.io/portfolio/
 
 - 📫 How to reach me **stahli.tatiana@gmail.com**
 
