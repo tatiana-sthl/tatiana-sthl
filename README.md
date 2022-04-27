@@ -23,7 +23,7 @@
 
 <h3 align="left">More about me :</h3>
 <ul>
- <li> I love :  </li>
+I love : 
  <li> reading  </li>
  <li> hiking  </li>
  <li> gardening  </li>
