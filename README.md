@@ -22,9 +22,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tatiana-sthl&show_icons=true&locale=en" alt="tatiana-sthl" /></p>
 
 <h3 align="left">More about me :</h3>
-I love :  
- - reading  
- - hiking  
- - gardening
+<ul>
+ <li> I love :  </li>
+ <li> reading  </li>
+ <li> hiking  </li>
+ <li> gardening  </li>
 
 
