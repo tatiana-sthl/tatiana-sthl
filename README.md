@@ -23,13 +23,5 @@
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api?username=tatiana-sthl&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatiana-sthl&layout=compact&theme=cobalt&hide_border=true" />
- </p>
-
-<h3 align="left">More about me :</h3>
-<ul>
-I love : 
- <li> reading  </li>
- <li> hiking  </li>
- <li> gardening  </li>
-
+</p>
 
