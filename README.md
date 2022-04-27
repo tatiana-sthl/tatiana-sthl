@@ -21,3 +21,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tatiana-sthl&show_icons=true&locale=en" alt="tatiana-sthl" /></p>
 
+<h3 align="left">More about me :</h3>
+<p align="left">
+I love :
+ - reading
+</p>
+
+
