@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **stahli.tatiana@gmail.com**
 
-- 📄 Know about my experiences [todo](todo)
+- 📄 Know about my experiences https://tatiana-sthl.github.io/portfolio/files/cv_TMS.pdf
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
