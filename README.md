@@ -1,4 +1,6 @@
-![Header](./[github-header-image])
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/tatiana-sthl/tatiana-sthl/master/github-header-image.png" alt="header" />
+</h1>
 
 <h1 align="center">Hello World, I'm Tatiana !</h1>
 
