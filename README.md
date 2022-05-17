@@ -1,10 +1,3 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/tatiana-sthl/tatiana-sthl/master/github-header-image.png" alt="header" />
-</h1>
-
-
-
-
 
 - 🌱 I’m currently learning **Javascript** and a lot of more things
 
