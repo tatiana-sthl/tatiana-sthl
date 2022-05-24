@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Javascript** and a lot of more things
 
-- 👨‍💻 All of my projects are available at https://tatiana-sthl.github.io/portfolio/
+- 👨‍💻 All of my projects are available at [https://tatiana-sthl.github.io/portfolio/](https://tatiana-sthl.github.io/wip_portfolio/)
 
 - 📫 How to reach me **stahli.tatiana@gmail.com**
 
-- 📄 Know about my experiences https://tatiana-sthl.github.io/portfolio/files/cv_TMS.pdf
+- 📄 Know about my experiences https://tatiana-sthl.github.io/wip_portfolio/files/cv_TMS.pdf
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
