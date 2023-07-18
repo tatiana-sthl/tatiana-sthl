@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **stahli.tatiana@gmail.com**
 
-- 📄 Know about my experiences [https://tatiana-sthl.github.io/wip_portfolio/files/cv_TMS.pdf](https://tatiana-sthl.github.io/portfolio/images/cv_tatiana_stahli.pdf)
+- 📄 Know about my experiences ([https://tatiana-sthl.github.io/portfolio/images/cv_tatiana_stahli.pdf](http://127.0.0.1:5500/images/cv_tatiana_stahli.pdf))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
